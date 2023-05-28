@@ -1,0 +1,14 @@
+.home{
+ 
+  height: 100vh;
+  margin-left:288px;
+  width: calc(100% - 288px);
+
+}
+
+.home-close{
+
+  height: 100vh;  
+  margin-left: 80px;
+  width: calc(100% - 80px);
+}
